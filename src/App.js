@@ -1,5 +1,15 @@
+import Home from "./Components/Home";
+import Navbar from "./Components/Navbar";
+import Footer from "./Footer";
+
 function App() {
-  return <h1>Portfolio</h1>;
+  return (
+    <>
+      <Navbar />
+      <Home />
+      <Footer />
+    </>
+  );
 }
 
 export default App;
