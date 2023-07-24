@@ -1,8 +1,8 @@
 import React from "react";
 import { Wrapper } from "./style";
-import twitter from "../assets/icons/twitter.svg";
-import facebook from "../assets/icons/facebook.svg";
-import git from "../assets/icons/git.svg";
+import twitter from "../../assets/icons/twitter.svg";
+import facebook from "../../assets/icons/facebook.svg";
+import git from "../../assets/icons/git.svg";
 const Footer = () => {
   return (
     <Wrapper>

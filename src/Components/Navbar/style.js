@@ -14,6 +14,10 @@ export const Wrapper = styled.div`
   .active {
     border-bottom: 3px solid #fea55f;
   }
+  .logo {
+    text-align: left;
+    width: 330px;
+  }
 `;
 Wrapper.NavbarItem = styled.div`
   border-right: 1px solid #607b96;
